@@ -5,21 +5,29 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 	<string>436D4421-0C17-4BD1-BDA6-E7090AE1131E</string>
 =======
 	<string>EBC420E5-0728-44ED-8F11-3B1957195F77</string>
 >>>>>>> Stashed changes
+=======
+	<string>EBC420E5-0728-44ED-8F11-3B1957195F77</string>
+>>>>>>> FETCH_HEAD
 	<key>IDESourceControlProjectName</key>
 	<string>SpriteKitSwiftBackgroundTutorial</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>0B5DE09DB2E2FB7363ABEFE25201CBF9E247BD54</key>
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 		<string>https://github.com/ioscreator/ioscreator.git</string>
 =======
 		<string>https://github.com/kguischard13/ioscreator.git</string>
 >>>>>>> Stashed changes
+=======
+		<string>https://github.com/kguischard13/ioscreator.git</string>
+>>>>>>> FETCH_HEAD
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>SpriteKitSwiftBackgroundTutorial/SpriteKitSwiftBackgroundTutorial.xcodeproj</string>
@@ -29,11 +37,15 @@
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 	<string>https://github.com/ioscreator/ioscreator.git</string>
 =======
 	<string>https://github.com/kguischard13/ioscreator.git</string>
 >>>>>>> Stashed changes
+=======
+	<string>https://github.com/kguischard13/ioscreator.git</string>
+>>>>>>> FETCH_HEAD
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>

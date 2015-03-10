@@ -5,21 +5,29 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 	<string>C4F6B09E-E960-431A-9271-811536BDB7CA</string>
 =======
 	<string>F835670B-648D-49DC-8454-C78D071255AC</string>
 >>>>>>> Stashed changes
+=======
+	<string>F835670B-648D-49DC-8454-C78D071255AC</string>
+>>>>>>> FETCH_HEAD
 	<key>IDESourceControlProjectName</key>
 	<string>iOS8SwiftCollectionViewControllerTutorial</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>0B5DE09DB2E2FB7363ABEFE25201CBF9E247BD54</key>
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 		<string>https://github.com/ioscreator/ioscreator.git</string>
 =======
 		<string>https://github.com/kguischard13/ioscreator.git</string>
 >>>>>>> Stashed changes
+=======
+		<string>https://github.com/kguischard13/ioscreator.git</string>
+>>>>>>> FETCH_HEAD
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>iOS8SwiftCollectionViewControllerTutorial/iOS8SwiftCollectionViewControllerTutorial.xcodeproj</string>
@@ -29,11 +37,15 @@
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 	<string>https://github.com/ioscreator/ioscreator.git</string>
 =======
 	<string>https://github.com/kguischard13/ioscreator.git</string>
 >>>>>>> Stashed changes
+=======
+	<string>https://github.com/kguischard13/ioscreator.git</string>
+>>>>>>> FETCH_HEAD
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
