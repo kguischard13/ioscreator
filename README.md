@@ -8,7 +8,11 @@ CODE EXAMPLES REPOSITORY
 
   See http://ioscreator.com for a detailed description 
 
+<<<<<<< Updated upstream
   This README last updated: 6-Mar-2015
+=======
+  This README last updated: 03-Nov-2014
+>>>>>>> Stashed changes
 ===========================================================================================================
 
 INDEX
@@ -144,6 +148,7 @@ IOS8SwiftScrollViewPagingTutorial - http://ioscreator.com/tutorials/scroll-view-
 IOS8SwiftCustomizeTableViewTutorial - http://ioscreator.com/tutorials/customizing-table-view-tutorial-ios8-swift  
 IOS8SwiftGradientsCoreGraphicsTutorial - http://ioscreator.com/tutorials/draw-gradients-core-graphics-ios8-swift  
 IOS8SwiftCollectionViewControllerTutorial - http://ioscreator.com/tutorials/collection-view-controller-tutorial-ios8-swift  
+<<<<<<< Updated upstream
 IOS8SwiftBlurEffectTutorial	- http://ioscreator.com/tutorials/add-blur-effect-ios8-swift  
 IOS8SwiftSnapBehaviourTutorial  - http://ioscreator.com/tutorials/add-snap-behaviour-tutorial-ios8-swift  
 SpriteKitSwiftLabelTutorial	- http://ioscreator.com/tutorials/using-labels-spritekit-swift  
@@ -185,6 +190,8 @@ IOS8SwiftAddSearchTableViewTutorial - http://ioscreator.com/tutorials/add-search
 SpriteKitSwiftFollowPathTutorial - http://ioscreator.com/tutorials/move-sprite-along-path-spritekit-swift  
 IOS8SwiftNSUserDefaultsTutorial - http://ioscreator.com/tutorials/use-settings-nsuserdefaults-ios8-swift  
 IOS8SwiftFileManagementTutorial - http://ioscreator.com/tutorials/file-management-tutorial-ios8-swift  
+=======
+>>>>>>> Stashed changes
 
 
 
